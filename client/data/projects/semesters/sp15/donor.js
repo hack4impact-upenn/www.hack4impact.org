@@ -54,7 +54,7 @@ const team = {
       role: "Developer"
     },
     {
-      name: "Veronica Wharton",
+      name: "Skyler Wharton",
       role: "Developer"
     }
   ]
