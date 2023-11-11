@@ -45,7 +45,7 @@ const team = {
   type: "pic",
   detail: [
     {
-      name: "Veronica Wharton",
+      name: "Skyler Wharton",
       role: "Product Manager"
     },
     {
